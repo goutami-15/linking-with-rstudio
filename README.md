@@ -1,2 +1,2 @@
 # linking-with-rstudio
-#Linking Github with Rstudio
+Linking Github with Rstudio
